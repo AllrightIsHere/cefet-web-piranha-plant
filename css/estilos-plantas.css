@@ -1,5 +1,6 @@
 blockquote {
     margin-left: 60px;
+    margin-right: 0px;
     text-align: justify;
     font-style: italic;
 }
