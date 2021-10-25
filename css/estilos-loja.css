@@ -2,6 +2,7 @@ body {
     background-image: url('./../imagens/desenho-loucao.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top: 10%;
 }
 
 table {
